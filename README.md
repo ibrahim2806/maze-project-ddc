@@ -39,8 +39,8 @@ The code is committed as an unpacked Vivado project and can be browsed directly.
 
 The original toolchain was **Vivado 2020.1**, targeting **xc7z020clg400-1**. A different Vivado release may request IP updates or regeneration. The archived implementation completed bitstream generation on 18 December 2024 and met its user-specified timing constraints.
 
-## Authors
+## Author
 
-**Ibrahim Ibrahimov and Ali Shirinov**
+**Ibrahim Ibrahimov**
 
 Part of the [embedded-hardware collection](https://github.com/ibrahim2806/embedded-hardware).
